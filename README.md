@@ -1,2 +1,2 @@
 # printf
-This project is done by me and Jennifer Scottbello
+This project is done by me and Scottbello Jennifer 
